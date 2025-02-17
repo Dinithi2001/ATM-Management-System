@@ -16,5 +16,10 @@ namespace ATM_Management_System
         {
             InitializeComponent();
         }
+
+        private void textBox10_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
